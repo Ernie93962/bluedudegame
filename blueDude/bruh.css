@@ -1,0 +1,54 @@
+html {
+    background-color: cyan;
+}
+
+#score {
+    border-style: solid;
+    width: 8.5%;
+    padding-left: 5px;
+    
+}
+
+p.rules {
+    text-align: right;
+    display: block;
+    display: inline;
+    font: bold;
+    font-size: 20px;
+    position: relative;
+    left: 500px;
+}
+
+button {
+    transition-duration: 0.4s;
+    font-size: 20px;
+    padding: 5px;
+    float: left;
+    background-color: #555555;
+    color: white;
+    border-style: none;
+}
+
+button:hover {
+    border-color: #555555;
+    border-style: solid;
+    background-color: cyan;
+    color: #555555;
+}
+
+img {
+    visibility:visible;
+    position: relative;
+    top: 0px;
+}
+
+#logo{
+    position: relative;
+    left: 500px;
+    cursor: pointer;
+}
+
+#canvas{
+    margin: 0px;
+    padding: 0px;
+}

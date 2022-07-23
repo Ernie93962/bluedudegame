@@ -1,0 +1,24 @@
+button{
+    color: white;
+    border: none;
+    position: relative;
+    top: 15px;
+    left: 0px;
+    background-image: image('media/good.svg');
+}
+
+p{
+    background-color: #555555;
+    color: white;
+    width: 200px;
+    text-align: center;
+}
+
+#logo{
+    position: relative;
+    left: 500px;
+}
+
+#blueDude{
+    cursor: pointer;
+}
